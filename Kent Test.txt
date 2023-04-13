@@ -1,3 +1,0 @@
-Kent Test
-
-Testing merging conflict
