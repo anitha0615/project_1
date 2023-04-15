@@ -1,34 +1,30 @@
 # project_1
 Anitha, Kent, Misty, Sujath, Zach
 
-Homebuyers Guide to the Texas Market
-Where should you end up?
+## Homebuyers Guide to the Texas Market !!! Where should you end up? <br>
 
-Project Description:
+**-- Project Description: --** As part of this activity, “hotspots” in Texas will be determined based on housing prices, COVID surveillance, Temperature, public saftey.
 
-We will be determining “hotspots” in Texas for areas where housing prices are rising. Along with finding the hotspots, we will also be on the lookout for areas where housing prices are falling, and where they are relatively stable.
+### **-- Main Questions: --**
 
-Main Questions:
-Where are housing prices rising the most in the past 6 years?
-Where have prices fallen? AKA where do you want to stay away from in your home investment?
-You don’t want to worry about moving around anymore? We’ll also tell you where prices have been the most stable over the last 6 years!
+**--Housing Price :--** Where are housing prices rising the most in the past 6 years? Where have prices fallen? AKA where do you want to stay away from in your home investment?<br>
+**--COVID surveillance :--** Does the place pose high risk for COVID-19 spread<br>
+**--Temperature:--** Does the place have perfect climate?<br>
+**--Public saftey:--** Is the place safe to live in? what is the cirme ranking?<br>
 
-Potentially look at years 2010-2017 to compare COVID trends from then to more recent;
-also can make our own “Livability Index” with factors such as healthcare, education, public safety, and infrastructure to determine if we think areas are over-/under-valued.
+Create “livability score” from 1 to 5 with 1 being lowest and 5 highest(best) along with a  visuvalization map created for texas by each county with a hover that display 
+  * overall livability Score,
+  * CountyName, 
+  * Avg housing price and Score, 
+  * Covid Survillance(Rate and Score), 
+  * Saftey (precent and Score)
 
-Datasets being used:
+### Datasets being used:
+  * Zillow data set - for housing price
+  * Texas Open Data Portal and dshs data - for Safety and covid measures
 
-We will be using Zillow data that we retrieved from NASDAQ Data Link: data.nasdaq.com
+Who’s doing what (subject to change):<br>
 
-This data is coming from three separate files containing housing value data for the entire U.S.
-
-We will be trimming this data down and only using data for the state of Texas.
-
-
-Who’s doing what (subject to change):
-
-Anitha & Kent: Pulling data and making it pretty
-
-Sujatha & Misty: Finding trends in housing prices
-
-Zach: Visualizing the data
+Zach & Kent: Housing Price<br>
+Sujatha & Misty: COVID and Temprature <br>
+Anitha : Public saftey<br>
