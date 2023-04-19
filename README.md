@@ -3,7 +3,7 @@ Anitha, Kent, Misty, Sujatha, Zach
 
 ## Homebuyers Guide to the Texas Market!!! Where should you end up? <br>
 
-**-- Project Description: --** As part of this activity, “hotspots” in Texas will be determined based on housing prices, COVID surveillance and public safety.
+**-- Project Description: --** As part of this activity, “hotspots” in Texas will be determined based on housing prices, COVID surveillance and public safety.<br>
 **-- Main Questions: --**
 * Housing Price: Where are housing prices rising the most in the past 6 years? Where have prices fallen? AKA where do you want to stay away from in your home investment? 
 * COVID surveillance: Does the place have higher COVID transmission rate?
