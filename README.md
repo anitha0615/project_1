@@ -51,6 +51,7 @@ Anitha: Public safety<br>
   * List of counties - Texas_Counties.xlsx
   * tufts-txcounties10-shapefile folder contains shape file for Texas map
 * Output Folder - Contains livability score csv extract from each of the analysis
+  * HomeBuyersGuide_TexasMap_OUTPUT.pdf - export of HomeBuyersGuide Jupyter Source File with texas map display
   * LIndexForCOVID - Livability score output from Covid Analysis
   * safety_analysis - Livability score output from Safety Analysis
   * housing_price_score - Livability score output from Housing Analysis
