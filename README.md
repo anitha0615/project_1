@@ -66,7 +66,7 @@ Anitha: Public safety<br>
 
 **-- Things to ensure before execution: --**
 * Create config.py in the same level as HomeBuyersGuide.ipynb source file is present and add the below content. You need to add your own keys in this file. To get your keys visit data.cdc.gov website<br>
-  Comment-OpenWeatherMap API Key below<br>
+  Comment-CDCToken Key below<br>
   cdc_apptoken = "YOUR KEY GOES HERE"
 * Ensure correct Kernel is selected and all required python/pandas packages are installed.
 * Ensure required dataset is under Resource folder when executing Jupyter source files from Analysis folder.
